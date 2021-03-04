@@ -18,7 +18,7 @@ def index():
 
 @app.route('/json/')
 def json():
-    return {"hello": "world"}
+    return {"hello": "IWS"}
 
 
 @app.route('/hello/')
