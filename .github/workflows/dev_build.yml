@@ -43,7 +43,7 @@ jobs:
       run: |
         pytest
         
-  build:
+  test:
 
     runs-on: ubuntu-latest
 
